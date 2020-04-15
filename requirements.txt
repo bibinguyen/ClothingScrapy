@@ -1,0 +1,4 @@
+psycopg2==2.8.4
+Scrapy==2.0.1
+selenium==3.141.0
+scrapy-user-agents==0.1.1
